@@ -7,4 +7,4 @@ def get_include() -> str:
     Returns:
         str: The path to the include directory.
     """
-    return str(Path(__file__).parent / "simde" / "simde")
+    return str(Path(__file__).parent / "simde")
