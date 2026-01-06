@@ -1,7 +1,6 @@
 # simde-py
 
 [![PyPI version](https://badge.fury.io/py/simde-py.svg)](https://badge.fury.io/py/simde-py)
-[![Python Versions](https://img.shields.io/pypi/pyversions/simde-py.svg)](https://pypi.org/project/simde-py/)
 
 Python package providing [SIMD Everywhere (SIMDe)](https://github.com/simd-everywhere/simde) header files for building Python C extensions with portable SIMD intrinsics.
 
