@@ -40,4 +40,4 @@ Returns the path to the SIMDe header files directory.
 
 ## License
 
-MIT License. SIMDe is also MIT licensed.
+SIMDe is distributed under an MIT-style license; see COPYING for details.
