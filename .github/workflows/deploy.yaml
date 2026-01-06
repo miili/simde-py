@@ -42,7 +42,6 @@ jobs:
             - name: Check built distribution
               run: |
                   twine check dist/*
-                  mv dist/simde_py-0.8.2.post1.tar.gz dist/simde_py-0.8.2.post2.tar.gz
 
             - name: Publish to PyPI
               uses: pypa/gh-action-pypi-publish@release/v1
